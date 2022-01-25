@@ -1,0 +1,11 @@
+# ignore everything
+*
+
+# Now, everything is ignored, Don't ignore filename with extension
+!*.*
+
+# Don't ignore directories
+!*/
+
+# ignore .vscode directory
+.vscode/
